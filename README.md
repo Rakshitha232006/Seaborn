@@ -78,6 +78,3 @@ By completing this project, we gain:
 ## ✅ Conclusion
 
 This project demonstrates how Seaborn can be effectively used to explore and understand data through visualization. By focusing on theory and interpretation, it shows that **good visual analysis is the foundation of meaningful data-driven decisions**.
-
-
-Just tell me 💙
